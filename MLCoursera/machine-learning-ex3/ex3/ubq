@@ -1,0 +1,35 @@
+J =  0.76709
+grad =
+
+   0.15835
+   0.22405
+  -0.10741
+
+y_train =
+
+  1
+  1
+  1
+  1
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+
+
+!! Submission failed: @t: no function and no method found
+
+
+Function: oneVsAll
+FileName: D:\Downloads\machine-learning-ex3\ex3\oneVsAll.m
+LineNumber: 56
+
+Please correct your code and resubmit.
