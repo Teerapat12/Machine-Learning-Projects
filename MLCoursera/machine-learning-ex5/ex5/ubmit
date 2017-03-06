@@ -1,0 +1,48 @@
+t =
+
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+
+t =
+
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+
+X =
+
+   1.00000   0.84147   0.54030
+   1.00000   0.59847  -0.80114
+   1.00000  -0.75680  -0.65364
+   1.00000  -0.70554   0.70867
+   1.00000   0.65699   0.75390
+   1.00000   0.79849  -0.60201
+   1.00000  -0.54402  -0.83907
+   1.00000  -0.87545   0.48330
+   1.00000   0.42017   0.90745
+   1.00000   0.93490  -0.35492
+
+
+!! Submission failed: operator *: nonconformant arguments (op1 is 10x3, op2 is 2x1)
+
+
+Function: linearRegCostFunction
+FileName: D:\Downloads\machine-learning-ex5\ex5\linearRegCostFunction.m
+LineNumber: 22
+
+Please correct your code and resubmit.
